@@ -1,0 +1,196 @@
+[25-Jan-2023 06:30:40 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:30:40 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:30:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:30:40 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:30:40 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:30:43 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:30:43 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:30:43 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:30:43 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:31:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_starts_with() in /home/site/wwwroot/wp-content/plugins/contact-form-7/includes/rest-api.php:331
+Stack trace:
+#0 /home/site/wwwroot/wp-includes/rest-api/class-wp-rest-server.php(1140): WPCF7_REST_Controller->create_feedback(Object(WP_REST_Request))
+#1 /home/site/wwwroot/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/contact-form-7...', Array, NULL)
+#2 /home/site/wwwroot/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 /home/site/wwwroot/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/contact-form-7...')
+#4 /home/site/wwwroot/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#5 /home/site/wwwroot/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 /home/site/wwwroot/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#7 /home/site/wwwroot/wp-includes/class-wp.php(388): do_action_ref_array('pa in /home/site/wwwroot/wp-content/plugins/contact-form-7/includes/rest-api.php on line 331
+[25-Jan-2023 06:31:02 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:31:02 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:31:28 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:31:28 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:31:29 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:31:29 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:31:32 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:31:32 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:31:32 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:31:32 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:31:44 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:31:44 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:31:44 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:31:44 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:31:52 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:31:52 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:31:52 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:31:52 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:31:55 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:31:55 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:31:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:31:55 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:31:55 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:02 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:02 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:02 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:02 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:05 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:05 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 94
+[25-Jan-2023 06:32:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 103
+[25-Jan-2023 06:32:06 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:06 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:09 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:09 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:09 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:09 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:12 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:12 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:14 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:15 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:15 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:15 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:15 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:15 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:15 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:18 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:18 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:22 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:22 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:22 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:22 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:22 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:22 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:23 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:23 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 94
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 103
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:24 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:25 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:25 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:25 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:25 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 94
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 103
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:26 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:28 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:28 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:28 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:28 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:28 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:28 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:28 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:28 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:31 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:31 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:31 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:31 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:31 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:31 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:31 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:31 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:32 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:34 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:34 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:34 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:34 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:36 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:36 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:36 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:36 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:36 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:36 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:37 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:37 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:37 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:37 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:37 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:37 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:37 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:37 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:39 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:39 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:39 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:39 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:44 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:44 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:44 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:44 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:57 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:57 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:57 UTC] PHP Notice:  Undefined variable: cities_dropdown_options in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1708
+[25-Jan-2023 06:32:57 UTC] PHP Notice:  Undefined variable: cities_dropdown_options_two in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1709
+[25-Jan-2023 06:32:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/site/wwwroot/wp-content/themes/steps/inc/custom/dynamic-style/banner-options.php on line 92
+[25-Jan-2023 06:32:58 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:58 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
+[25-Jan-2023 06:32:58 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1837
+[25-Jan-2023 06:32:58 UTC] PHP Notice:  ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush in /home/site/wwwroot/wp-content/themes/steps/functions.php on line 1856
